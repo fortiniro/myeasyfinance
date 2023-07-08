@@ -1,0 +1,17 @@
+button {
+    width: 200px;
+}
+
+.mt-15 {
+    padding-top: 10%;
+}
+
+.myeasy-icon {
+    color: #87c5b0;
+    font-size: 45px;
+}
+
+.img-aux {
+    object-fit: cover;
+    object-position: left;
+}
